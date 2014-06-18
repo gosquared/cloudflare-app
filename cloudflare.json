@@ -16,18 +16,38 @@
     "type": "zone",
     "plans": [
       {
-        "name": "free app plan",
-        "price": "0.00"
+        "name": "200,000 monthly pageviews",
+        "price": "28"
       },
       {
-        "name": "subscription app plan",
-        "price": "5.99"
+        "name": "500,000 monthly pageviews",
+        "price": "50"
+      },
+      {
+        "name": "1,000,000 monthly pageviews",
+        "price": "75"
+      },
+      {
+        "name": "2,500,000 monthly pageviews",
+        "price": "140"
+      },
+      {
+        "name": "5,000,000 monthly pageviews",
+        "price": "220"
+      },
+      {
+        "name": "10,000,000 monthly pageviews",
+        "price": "350"
+      },
+      {
+        "name": "20,000,000 monthly pageviews",
+        "price": "540"
       }
     ]
   },
   "config": {
     "details": {
-      "Price": "From $22 / month",
+      "Price": "From $28 / month",
       "Category": "Subscription App",
       "Restrictions": "None",
       "Language": "English",
